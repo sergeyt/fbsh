@@ -1,0 +1,33 @@
+{
+  "name": "fbsh",
+  "version": "0.0.1",
+  "description": "FogBugz shell",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeyt/fbsh.git"
+  },
+  "keywords": [
+    "fogbugz",
+    "client",
+    "shell"
+  ],
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "contributors": [
+    "Sergey Todyshev <stodyshev@gmail.com>"
+  ],
+  "dependencies": {
+    "fogbugz.js": "0.0.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-auto-release": "~0.0.2"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/grunt test"
+  }
+}
