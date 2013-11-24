@@ -28,6 +28,9 @@
     "grunt-bump": "~0.0.7",
     "grunt-auto-release": "~0.0.2"
   },
+  "bin": {
+    "fbsh": "./bin/fbsh"
+  },
   "scripts": {
     "test": "./node_modules/.bin/grunt test"
   }
