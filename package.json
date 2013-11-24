@@ -1,6 +1,6 @@
 {
   "name": "fbsh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "FogBugz shell",
   "license": "MIT",
   "main": "index.js",
