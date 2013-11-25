@@ -1,6 +1,8 @@
 fbsh
 ====
 
+[![NPM][npm]](https://nodei.co/npm/fbsh/)
+
 FogBugz shell
 
 Installation
@@ -39,3 +41,5 @@ help                         - print this command list
 ## TODO
 * move fbsh from fogbugz.js to reduce fogbugz.js dependecies
 * document fbsh commands in readme.md
+
+[npm]: https://nodei.co/npm/fbsh.png?downloads=true&stars=true
