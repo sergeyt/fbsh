@@ -1,7 +1,9 @@
-fbsh
-====
+[![Deps Status](https://david-dm.org/sergeyt/fbsh.png)](https://david-dm.org/sergeyt/fbsh)
+[![DevDeps Status](https://david-dm.org/sergeyt/fbsh/dev-status.png)](https://david-dm.org/sergeyt/fbsh#info=devDependencies)
 
 [![NPM][npm]](https://nodei.co/npm/fbsh/)
+
+# fbsh
 
 FogBugz shell
 
